@@ -28,12 +28,6 @@ GEM
       fiber-storage
     fiber-storage (0.1.2)
     forwardable-extended (2.6.0)
-    google-protobuf (4.27.2-arm64-darwin)
-      bigdecimal
-      rake (>= 13)
-    google-protobuf (4.27.2-x86_64-darwin)
-      bigdecimal
-      rake (>= 13)
     google-protobuf (4.27.2-x86_64-linux)
       bigdecimal
       rake (>= 13)
@@ -98,12 +92,7 @@ GEM
     liquid (4.0.4)
     listen (3.9.0)
       rb-inotify (~> 0.9, >= 0.9.10)
-      rb-fsevent (>= 0.10.3, ~> 0.10)
     mercenary (0.4.0)
-    nokogiri (1.16.7-arm64-darwin)
-      racc (~> 1.4)
-    nokogiri (1.16.7-x86_64-darwin)
-      racc (~> 1.4)
     nokogiri (1.16.7-x86_64-linux)
       racc (~> 1.4)
     pathutil (0.16.2)
@@ -141,8 +130,6 @@ GEM
     zeitwerk (2.6.17)
 
 PLATFORMS
-  arm64-darwin
-  x86_64-darwin
   x86_64-linux
   x86_64-linux
 
