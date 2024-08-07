@@ -16,7 +16,7 @@ timezone:
 
 title: BeforeTheSurge Website # the main title
 
-tagline: A place to learn Cyber Security, and all things nerdy # it will display as the sub-title
+tagline: Website for documentation and (eventually) API tools to incorporate recon # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
