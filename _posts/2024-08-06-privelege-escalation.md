@@ -12,9 +12,11 @@ It is important to note that this is not a list of exploits, and the programs li
 GTFOBins is a collaborative project created by Emilio Pinna and Andrea Cardaci where everyone can contribute with additional binaries and techniques.
 
 #### **If you are looking for Windows binaries you should visit LOLBAS.**
+
 ---
 
 ## [HackTricks](https://book.hacktricks.xyz/)
+
 ---
 
 ## [LOLBAS](https://lolbas-project.github.io/)
@@ -24,4 +26,5 @@ The goal of the LOLBAS project is to document every binary, script, and library 
 
 ## [Static Binaries](https://github.com/andrew-d/static-binaries/tree/master)
 Contains a bunch of statically-linked binaries of various tools, along with the Dockerfiles / other build scripts that can be used to build them. I generally just create these as I need them - not all tools are available for every platform or architecture.
+
 ---
