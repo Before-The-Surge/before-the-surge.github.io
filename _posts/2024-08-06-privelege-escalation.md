@@ -14,12 +14,15 @@ If you are looking for Windows binaries you should visit LOLBAS.
 
 Source : [GTFOBins](https://gtfobins.github.io/)
 ---
+
 [HackTricks](https://book.hacktricks.xyz/)
 ---
+
 The goal of the LOLBAS project is to document every binary, script, and library that can be used for Living Off The Land techniques. [Windows]
 
 [LOLBAS](https://lolbas-project.github.io/)
 ---
+
 Contains a bunch of statically-linked binaries of various tools, along with the Dockerfiles / other build scripts that can be used to build them. I generally just create these as I need them - not all tools are available for every platform or architecture.
 
 [Static Binaries](https://github.com/andrew-d/static-binaries/tree/master)
