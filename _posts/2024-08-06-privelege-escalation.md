@@ -2,7 +2,7 @@
 title: Privelege Escalation Tools
 ---
 
-Source : [GTFOBins](https://gtfobins.github.io/)
+## [GTFOBins](https://gtfobins.github.io/)
 
 GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems.
 
@@ -15,15 +15,15 @@ GTFOBins is a collaborative project created by Emilio Pinna and Andrea Cardaci w
 If you are looking for Windows binaries you should visit LOLBAS.
 ---
 
-[HackTricks](https://book.hacktricks.xyz/)
+## [HackTricks](https://book.hacktricks.xyz/)
 ---
 
-[LOLBAS](https://lolbas-project.github.io/)
+## [LOLBAS](https://lolbas-project.github.io/)
 
 The goal of the LOLBAS project is to document every binary, script, and library that can be used for Living Off The Land techniques. [Windows]
 ---
 
-[Static Binaries](https://github.com/andrew-d/static-binaries/tree/master)
+## [Static Binaries](https://github.com/andrew-d/static-binaries/tree/master)
 
 Contains a bunch of statically-linked binaries of various tools, along with the Dockerfiles / other build scripts that can be used to build them. I generally just create these as I need them - not all tools are available for every platform or architecture.
 ---
