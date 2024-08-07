@@ -12,7 +12,7 @@ It is important to note that this is not a list of exploits, and the programs li
 
 GTFOBins is a collaborative project created by Emilio Pinna and Andrea Cardaci where everyone can contribute with additional binaries and techniques.
 
-If you are looking for Windows binaries you should visit LOLBAS.
+#### **If you are looking for Windows binaries you should visit LOLBAS.**
 ---
 
 ## [HackTricks](https://book.hacktricks.xyz/)
