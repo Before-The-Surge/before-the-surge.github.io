@@ -19,6 +19,7 @@ GTFOBins is a collaborative project created by Emilio Pinna and Andrea Cardaci w
 
 ## [LOLBAS](https://lolbas-project.github.io/)
 The goal of the LOLBAS project is to document every binary, script, and library that can be used for Living Off The Land techniques. [Windows]
+
 ---
 
 ## [Static Binaries](https://github.com/andrew-d/static-binaries/tree/master)
